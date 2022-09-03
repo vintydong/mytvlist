@@ -32,7 +32,7 @@ I watch many TV shows at once (rather than binging) and thought it would be nice
 ## About the Project
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="screenshot.jpg" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
