@@ -1,0 +1,39 @@
+.me-page {
+    padding: 40px;
+}
+
+.list-buttons {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.list-buttons > * {
+    margin: 0px 10px;
+}
+
+.list-container {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.list-column {
+    text-align: center;
+    font-size: 30px;
+
+    width: 50%;
+    height: 100%;
+}
+
+.list-column > hr {
+    width: 90%;
+    margin: auto;
+    border: none;
+    border-top: 1px solid black;
+}
+
+.list-shows {
+}
+
+.list-movies {
+}

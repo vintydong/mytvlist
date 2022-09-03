@@ -1,0 +1,32 @@
+.list-item {
+    width: 80%;
+    height: 150px;
+    background-color: peachpuff;
+
+    text-align: left;
+    padding: 30px;
+    margin: auto;
+    margin-bottom: 20px;
+
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+
+.list-item:hover {
+    background-color: rebeccapurple;
+}
+
+.list-item-close {
+    width: 30px;
+    height: 30px;
+
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
+
+.list-item-title {
+    height: 20%;
+    margin-bottom: 20px;
+}
